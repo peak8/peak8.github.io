@@ -1,14 +1,14 @@
 # Peak 8 Connected Github Page
 
-Peak 8 Connected has developed a number of different products and services, some of which are freely available and some which are developed privately. Information and useful links for several of these project are made available through this site.
+Peak 8 Connected has developed a number of different products and services, some of which are freely available and some which are developed privately. Information and useful links for several of these projects are made available through this site.
 
 ToDo: a whole bunch of stuff. But first create a privay policy for Wavee Configurator.
 
 # Wavee Touchless Switch
 
-The Wavee Touchless Switch is a device that is designed to be mounted near automated physical access points such as doors and turnstiles, or even traffic control centers such as traffec intersections. It uses 60GHz radar to detect motion or presence and then activates a relay and LCD. It also includes a Bluetooth interface for communicating with the Wavee Configurator mobile application.
+The Wavee Touchless Switch is a device that is designed to be mounted near automated physical access points such as doors and turnstiles, or even traffic control centers such as traffic intersections. It uses 60GHz radar to detect motion or presence and then activates a relay and LCD. It also includes a Bluetooth interface for communicating with the Wavee Configurator mobile application.
 
-The Wavee Configurator is a mobile application that can be used to configure a Wavee device, send commands to exercise functionality, update LCD images, and send firmware updates. The application can be found on the Apple App Store and Google Play.
+**Wavee Configurator** is a mobile application that can be used to configure a Wavee device, send commands to exercise functionality, update LCD images, and send firmware updates. The application can be found on the Apple App Store and Google Play.
 
 ### Privacy Statement
 
